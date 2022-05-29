@@ -2,7 +2,7 @@
 
 <h2>Silent HTML Monero Miner</h2>
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io/master/img/coinhive-icon.png)
+![Alt text](https://raw.githubusercontent.com/lokiloki202223/Coin-Hive_Hidden-Miner.github.io/master/img/coinhive-icon.png)
 
 I have created this simple html page as a demonstration on how to make hidden the javascript miner of Coin Hive.<BR>
 In fact, even if the site says that you can not use the miner without the consent of the user, in reality, things are very different ...</BR>
@@ -16,7 +16,7 @@ you will see that the user's consent will be required, but the thing is easily c
 :trollface: :trollface: :trollface: :trollface: :trollface: :trollface::trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface:
 
 
-https://jonnybanana.github.io/Coin-Hive_Hidden-Miner.github.io/
+https://lokiloki202223.github.io/Coin-Hive_Hidden-Miner.github.io/
 
 :trollface: :trollface: :trollface: :trollface: :trollface: :trollface::trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface:
 
@@ -44,7 +44,11 @@ In practice everything is concentrated in the few lines in the code index.html f
 
 </BR>
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io/master/img/screenshot.JPG)
+![Alt text](https://raw.githubusercontent.com/
+
+
+
+/Coin-Hive_Hidden-Miner.github.io/master/img/screenshot.JPG)
 
 </BR>
 
@@ -78,19 +82,19 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Headless_mode
 
 https://developers.google.com/web/updates/2017/04/headless-chrome
 
-https://gist.github.com/JonnyBanana/b5561f9fc7ac081a399c518831893531
+https://gist.github.com/lokiloki202223/b5561f9fc7ac081a399c518831893531
 
 </BR>
 
 you can test my miner from here:
 
 
-https://jonnybanana.github.io/Coin-Hive_Hidden-Miner.github.io/
+https://lokiloki202223.github.io/Coin-Hive_Hidden-Miner.github.io/
 
 Thanks for the hashing!  :heart: :heart: :heart:
 
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io/master/img/vh9ytjscll101.jpg)
+![Alt text](https://raw.githubusercontent.com/lokiloki202223/Coin-Hive_Hidden-Miner.github.io/master/img/vh9ytjscll101.jpg)
 
 </BR>
 
@@ -103,7 +107,7 @@ https://www.bertnase.de/npiet/npiet-execute.php
 
 </BR>
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io/master/img/bit.png)
+![Alt text](https://raw.githubusercontent.com/lokiloki202223/Coin-Hive_Hidden-Miner.github.io/master/img/bit.png)
 
 </BR>
 
